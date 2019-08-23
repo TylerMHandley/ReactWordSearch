@@ -1,0 +1,10 @@
+.Cards {
+    display: grid;
+    grid-template-columns: 400px 400px;
+    grid-template-rows: auto auto;
+    grid-gap: 20px;
+    align-items: center;
+    padding: auto;
+    justify-items: center;
+    justify-content: center;
+}
